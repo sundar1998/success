@@ -1,3 +1,4 @@
 moon
 sun
+wind
 
